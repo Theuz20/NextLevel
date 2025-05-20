@@ -1,0 +1,73 @@
+{
+    "matheus branco correa": {
+        "email": "matheusbcorrea20@gmail.com",
+        "senha": "12345",
+        "curso_atual": "introdu\u00e7\u00e3o \u00e0 inform\u00e1tica"
+    },
+    "gustavo henrique rodrigues pinto": {
+        "idade": 20,
+        "email": "gustavo21@gmail.com",
+        "senha": "Next-Level#12",
+        "curso_atual": "seguran\u00e7a de dados e lgpd"
+    },
+    "bruno branco correa": {
+        "idade": 21,
+        "email": "bruno21@gmail.com",
+        "senha": "86fcb66767a33418a7ec67990f958abc0244232f09e59f5bbc432c6ef9eee201",
+        "curso_atual": "no\u00e7\u00f5es de programa\u00e7\u00e3o em python"
+    },
+    "guilherme branco correa": {
+        "idade": 25,
+        "email": "gui99@gmail.com",
+        "senha": "954882da37de8fe2888de31ec40c596c90d29099fd079b0a6d0d5f695cc4c7e0",
+        "curso_atual": "no\u00e7\u00f5es de programa\u00e7\u00e3o em python"
+    },
+    "erick rodrigues dos santos": {
+        "idade": 18,
+        "email": "erick11@gmail.com",
+        "senha": "eb7fdb41b21ce68ed5ed724228ea441b1cb266aefc84e280d0099a5e7e5d1fe3",
+        "curso_atual": "no\u00e7\u00f5es de programa\u00e7\u00e3o em python"
+    },
+    "jo\u00e3o caetano rocha vidal": {
+        "idade": 15,
+        "email": "jojo90@gmail.com",
+        "senha": "331d33e115a261aedcc4c4efe13db90a17e9ede477da0002c0e88319f995d11a",
+        "curso_atual": "seguran\u00e7a de dados e lgpd"
+    },
+    "jaqueline guerra machado": {
+        "idade": 16,
+        "email": "jaque.16@gmail.com",
+        "senha": "ed9602608dc5ef262ebb455db85b2ae4feb22afc32ff3d4ed7487063ce8c41dd",
+        "curso_atual": "introdu\u00e7\u00e3o \u00e0 inform\u00e1tica"
+    },
+    "william pereira reis": {
+        "idade": 22,
+        "email": "william.40776@gmail.com",
+        "senha": "814d79d51791955f611ebf9f3e8e0c9ee01a65fa82e7d0db9783037834a17eb5",
+        "curso_atual": "introdu\u00e7\u00e3o \u00e0 inform\u00e1tica"
+    },
+    "joice gomes borchal": {
+        "idade": 14,
+        "email": "joice.gomes@gmail.com",
+        "senha": "a956a055cdb4fb2e509f400a5867fabf2cac1cdb2c9df8d1641856b7502f5e2f",
+        "curso_atual": "no\u00e7\u00f5es de programa\u00e7\u00e3o em python"
+    },
+    "isabela medeiros oliveira": {
+        "idade": 15,
+        "email": "isaamoon@gmail.com",
+        "senha": "efa6c3694921b2c6f7fd7fa2bf381c2e96e11348e4cac749c1bb2f20deff8a7a",
+        "curso_atual": "no\u00e7\u00f5es de programa\u00e7\u00e3o em python"
+    },
+    "paulo roberto perinazzo": {
+        "idade": 16,
+        "email": "pauloperi@gmail.com",
+        "senha": "cbcef6e292ce3c7ad00b625e615c5cd1222cdd24b5bec58fb77725503a3e24ff",
+        "curso_atual": "introdu\u00e7\u00e3o \u00e0 inform\u00e1tica"
+    },
+    "mariana martins marques": {
+        "idade": 20,
+        "email": "mmm@gmail.com",
+        "senha": "7b50e90971739ef32755620ac9f7c00ebc4ed3c650c3c4f33463c7e3e8063920",
+        "curso_atual": "seguran\u00e7a de dados e lgpd"
+    }
+}
